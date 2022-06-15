@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akibur Rahman
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development & Data Structures
 - 📫 Mail: me.akiburrahman@gmail.com
 
 <!---
