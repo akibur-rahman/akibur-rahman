@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akibur Rahman
-- 🌱 I’m currently learning Web Development & Data Structures
-- 📫 Mail: me.akiburrahman@gmail.com
+- 🌱 I’m currently learning Flutter
+- 📫 Mail: work.akiburrahman@gmail.com
 
 <!---
 akibur-rahman/akibur-rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
