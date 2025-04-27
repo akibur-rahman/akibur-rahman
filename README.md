@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Akibur Rahman
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Md Akibur Rohman
+- 🌱 I’m a Passionate Mobile App Developer
 - 📫 Mail: me.akiburrahman@gmail.com
 
 <!---
